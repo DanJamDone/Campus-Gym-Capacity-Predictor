@@ -1,0 +1,332 @@
+Location,Day,Hour,Estimated_Busyness_Percentage
+College Avenue Gym,Monday,7:00 AM,15
+College Avenue Gym,Monday,8:00 AM,25
+College Avenue Gym,Monday,9:00 AM,28
+College Avenue Gym,Monday,10:00 AM,23
+College Avenue Gym,Monday,11:00 AM,20
+College Avenue Gym,Monday,12:00 PM,20
+College Avenue Gym,Monday,1:00 PM,25
+College Avenue Gym,Monday,2:00 PM,25
+College Avenue Gym,Monday,3:00 PM,35
+College Avenue Gym,Monday,4:00 PM,50
+College Avenue Gym,Monday,5:00 PM,70
+College Avenue Gym,Monday,6:00 PM,85
+College Avenue Gym,Monday,7:00 PM,90
+College Avenue Gym,Monday,8:00 PM,80
+College Avenue Gym,Monday,9:00 PM,80
+College Avenue Gym,Monday,10:00 PM,55
+College Avenue Gym,Tuesday,11:00 AM,25
+College Avenue Gym,Tuesday,12:00 PM,30
+College Avenue Gym,Tuesday,1:00 PM,28
+College Avenue Gym,Tuesday,2:00 PM,32
+College Avenue Gym,Tuesday,3:00 PM,45
+College Avenue Gym,Tuesday,4:00 PM,60
+College Avenue Gym,Tuesday,5:00 PM,75
+College Avenue Gym,Tuesday,6:00 PM,75
+College Avenue Gym,Tuesday,7:00 PM,65
+College Avenue Gym,Tuesday,8:00 PM,45
+College Avenue Gym,Wednesday,7:00 AM,20
+College Avenue Gym,Wednesday,8:00 AM,18
+College Avenue Gym,Wednesday,9:00 AM,20
+College Avenue Gym,Wednesday,10:00 AM,20
+College Avenue Gym,Wednesday,11:00 AM,23
+College Avenue Gym,Wednesday,12:00 PM,20
+College Avenue Gym,Wednesday,1:00 PM,20
+College Avenue Gym,Wednesday,2:00 PM,20
+College Avenue Gym,Wednesday,3:00 PM,30
+College Avenue Gym,Wednesday,4:00 PM,45
+College Avenue Gym,Wednesday,5:00 PM,70
+College Avenue Gym,Wednesday,6:00 PM,85
+College Avenue Gym,Wednesday,7:00 PM,80
+College Avenue Gym,Wednesday,8:00 PM,65
+College Avenue Gym,Wednesday,9:00 PM,45
+College Avenue Gym,Wednesday,10:00 PM,35
+College Avenue Gym,Thursday,7:00 AM,25
+College Avenue Gym,Thursday,8:00 AM,23
+College Avenue Gym,Thursday,9:00 AM,20
+College Avenue Gym,Thursday,10:00 AM,18
+College Avenue Gym,Thursday,11:00 AM,22
+College Avenue Gym,Thursday,12:00 PM,25
+College Avenue Gym,Thursday,1:00 PM,30
+College Avenue Gym,Thursday,2:00 PM,35
+College Avenue Gym,Thursday,3:00 PM,45
+College Avenue Gym,Thursday,4:00 PM,65
+College Avenue Gym,Thursday,5:00 PM,75
+College Avenue Gym,Thursday,6:00 PM,80
+College Avenue Gym,Thursday,7:00 PM,78
+College Avenue Gym,Thursday,8:00 PM,75
+College Avenue Gym,Thursday,9:00 PM,75
+College Avenue Gym,Thursday,10:00 PM,60
+College Avenue Gym,Friday,7:00 AM,15
+College Avenue Gym,Friday,8:00 AM,25
+College Avenue Gym,Friday,9:00 AM,35
+College Avenue Gym,Friday,10:00 AM,40
+College Avenue Gym,Friday,11:00 AM,42
+College Avenue Gym,Friday,12:00 PM,38
+College Avenue Gym,Friday,1:00 PM,35
+College Avenue Gym,Friday,2:00 PM,40
+College Avenue Gym,Friday,3:00 PM,42
+College Avenue Gym,Friday,4:00 PM,55
+College Avenue Gym,Friday,5:00 PM,60
+College Avenue Gym,Friday,6:00 PM,65
+College Avenue Gym,Friday,7:00 PM,55
+College Avenue Gym,Friday,8:00 PM,40
+College Avenue Gym,Saturday,11:00 AM,55
+College Avenue Gym,Saturday,12:00 PM,60
+College Avenue Gym,Saturday,1:00 PM,55
+College Avenue Gym,Saturday,2:00 PM,45
+College Avenue Gym,Saturday,3:00 PM,40
+College Avenue Gym,Saturday,4:00 PM,45
+College Avenue Gym,Saturday,5:00 PM,42
+College Avenue Gym,Saturday,6:00 PM,40
+College Avenue Gym,Sunday,11:00 AM,55
+College Avenue Gym,Sunday,12:00 PM,50
+College Avenue Gym,Sunday,1:00 PM,45
+College Avenue Gym,Sunday,2:00 PM,40
+College Avenue Gym,Sunday,3:00 PM,42
+College Avenue Gym,Sunday,4:00 PM,40
+College Avenue Gym,Sunday,5:00 PM,45
+College Avenue Gym,Sunday,6:00 PM,45
+College Avenue Gym,Sunday,7:00 PM,45
+College Avenue Gym,Sunday,8:00 PM,35
+Livingston Recreation Center,Monday,8:00 AM,35
+Livingston Recreation Center,Monday,9:00 AM,45
+Livingston Recreation Center,Monday,10:00 AM,40
+Livingston Recreation Center,Monday,11:00 AM,35
+Livingston Recreation Center,Monday,12:00 PM,35
+Livingston Recreation Center,Monday,1:00 PM,38
+Livingston Recreation Center,Monday,2:00 PM,38
+Livingston Recreation Center,Monday,3:00 PM,45
+Livingston Recreation Center,Monday,4:00 PM,55
+Livingston Recreation Center,Monday,5:00 PM,58
+Livingston Recreation Center,Monday,6:00 PM,65
+Livingston Recreation Center,Monday,7:00 PM,70
+Livingston Recreation Center,Monday,8:00 PM,80
+Livingston Recreation Center,Monday,9:00 PM,80
+Livingston Recreation Center,Monday,10:00 PM,55
+Livingston Recreation Center,Tuesday,3:00 PM,70
+Livingston Recreation Center,Tuesday,4:00 PM,70
+Livingston Recreation Center,Tuesday,5:00 PM,70
+Livingston Recreation Center,Tuesday,6:00 PM,70
+Livingston Recreation Center,Tuesday,7:00 PM,72
+Livingston Recreation Center,Tuesday,8:00 PM,55
+Livingston Recreation Center,Wednesday,8:00 AM,35
+Livingston Recreation Center,Wednesday,9:00 AM,40
+Livingston Recreation Center,Wednesday,10:00 AM,42
+Livingston Recreation Center,Wednesday,11:00 AM,40
+Livingston Recreation Center,Wednesday,12:00 PM,42
+Livingston Recreation Center,Wednesday,1:00 PM,55
+Livingston Recreation Center,Wednesday,2:00 PM,60
+Livingston Recreation Center,Wednesday,3:00 PM,58
+Livingston Recreation Center,Wednesday,4:00 PM,50
+Livingston Recreation Center,Wednesday,5:00 PM,45
+Livingston Recreation Center,Wednesday,6:00 PM,58
+Livingston Recreation Center,Wednesday,7:00 PM,75
+Livingston Recreation Center,Wednesday,8:00 PM,85
+Livingston Recreation Center,Wednesday,9:00 PM,60
+Livingston Recreation Center,Wednesday,10:00 PM,40
+Livingston Recreation Center,Thursday,8:00 AM,30
+Livingston Recreation Center,Thursday,9:00 AM,35
+Livingston Recreation Center,Thursday,10:00 AM,32
+Livingston Recreation Center,Thursday,11:00 AM,30
+Livingston Recreation Center,Thursday,12:00 PM,25
+Livingston Recreation Center,Thursday,1:00 PM,30
+Livingston Recreation Center,Thursday,2:00 PM,40
+Livingston Recreation Center,Thursday,3:00 PM,55
+Livingston Recreation Center,Thursday,4:00 PM,65
+Livingston Recreation Center,Thursday,5:00 PM,55
+Livingston Recreation Center,Thursday,6:00 PM,60
+Livingston Recreation Center,Thursday,7:00 PM,50
+Livingston Recreation Center,Thursday,8:00 PM,45
+Livingston Recreation Center,Thursday,9:00 PM,42
+Livingston Recreation Center,Thursday,10:00 PM,35
+Livingston Recreation Center,Friday,8:00 AM,20
+Livingston Recreation Center,Friday,9:00 AM,25
+Livingston Recreation Center,Friday,10:00 AM,30
+Livingston Recreation Center,Friday,11:00 AM,35
+Livingston Recreation Center,Friday,12:00 PM,38
+Livingston Recreation Center,Friday,1:00 PM,42
+Livingston Recreation Center,Friday,2:00 PM,45
+Livingston Recreation Center,Friday,3:00 PM,48
+Livingston Recreation Center,Friday,4:00 PM,55
+Livingston Recreation Center,Friday,5:00 PM,50
+Livingston Recreation Center,Friday,6:00 PM,50
+Livingston Recreation Center,Saturday,11:00 AM,15
+Livingston Recreation Center,Saturday,12:00 PM,20
+Livingston Recreation Center,Saturday,1:00 PM,25
+Livingston Recreation Center,Saturday,2:00 PM,30
+Livingston Recreation Center,Saturday,3:00 PM,35
+Livingston Recreation Center,Saturday,4:00 PM,40
+Livingston Recreation Center,Saturday,5:00 PM,38
+Livingston Recreation Center,Saturday,6:00 PM,38
+Livingston Recreation Center,Sunday,11:00 AM,30
+Livingston Recreation Center,Sunday,12:00 PM,32
+Livingston Recreation Center,Sunday,1:00 PM,35
+Livingston Recreation Center,Sunday,2:00 PM,30
+Livingston Recreation Center,Sunday,3:00 PM,32
+Livingston Recreation Center,Sunday,4:00 PM,35
+Livingston Recreation Center,Sunday,5:00 PM,38
+Livingston Recreation Center,Sunday,6:00 PM,40
+Livingston Recreation Center,Sunday,7:00 PM,40
+Livingston Recreation Center,Sunday,8:00 PM,35
+Sonny Werblin Recreation Center,Monday,9:00 AM,25
+Sonny Werblin Recreation Center,Monday,10:00 AM,28
+Sonny Werblin Recreation Center,Monday,11:00 AM,28
+Sonny Werblin Recreation Center,Monday,12:00 PM,28
+Sonny Werblin Recreation Center,Monday,1:00 PM,28
+Sonny Werblin Recreation Center,Monday,2:00 PM,30
+Sonny Werblin Recreation Center,Monday,3:00 PM,45
+Sonny Werblin Recreation Center,Monday,4:00 PM,55
+Sonny Werblin Recreation Center,Monday,5:00 PM,85
+Sonny Werblin Recreation Center,Monday,6:00 PM,90
+Sonny Werblin Recreation Center,Monday,7:00 PM,88
+Sonny Werblin Recreation Center,Monday,8:00 PM,65
+Sonny Werblin Recreation Center,Monday,9:00 PM,45
+Sonny Werblin Recreation Center,Monday,10:00 PM,35
+Sonny Werblin Recreation Center,Tuesday,11:00 AM,35
+Sonny Werblin Recreation Center,Tuesday,12:00 PM,30
+Sonny Werblin Recreation Center,Tuesday,1:00 PM,30
+Sonny Werblin Recreation Center,Tuesday,2:00 PM,30
+Sonny Werblin Recreation Center,Tuesday,3:00 PM,38
+Sonny Werblin Recreation Center,Tuesday,4:00 PM,50
+Sonny Werblin Recreation Center,Tuesday,5:00 PM,75
+Sonny Werblin Recreation Center,Tuesday,6:00 PM,85
+Sonny Werblin Recreation Center,Tuesday,7:00 PM,80
+Sonny Werblin Recreation Center,Tuesday,8:00 PM,70
+Sonny Werblin Recreation Center,Wednesday,9:00 AM,25
+Sonny Werblin Recreation Center,Wednesday,10:00 AM,32
+Sonny Werblin Recreation Center,Wednesday,11:00 AM,35
+Sonny Werblin Recreation Center,Wednesday,12:00 PM,35
+Sonny Werblin Recreation Center,Wednesday,1:00 PM,32
+Sonny Werblin Recreation Center,Wednesday,2:00 PM,32
+Sonny Werblin Recreation Center,Wednesday,3:00 PM,38
+Sonny Werblin Recreation Center,Wednesday,4:00 PM,55
+Sonny Werblin Recreation Center,Wednesday,5:00 PM,78
+Sonny Werblin Recreation Center,Wednesday,6:00 PM,95
+Sonny Werblin Recreation Center,Wednesday,7:00 PM,90
+Sonny Werblin Recreation Center,Wednesday,8:00 PM,70
+Sonny Werblin Recreation Center,Wednesday,9:00 PM,48
+Sonny Werblin Recreation Center,Wednesday,10:00 PM,35
+Sonny Werblin Recreation Center,Thursday,9:00 AM,30
+Sonny Werblin Recreation Center,Thursday,10:00 AM,35
+Sonny Werblin Recreation Center,Thursday,11:00 AM,38
+Sonny Werblin Recreation Center,Thursday,12:00 PM,35
+Sonny Werblin Recreation Center,Thursday,1:00 PM,35
+Sonny Werblin Recreation Center,Thursday,2:00 PM,40
+Sonny Werblin Recreation Center,Thursday,3:00 PM,45
+Sonny Werblin Recreation Center,Thursday,4:00 PM,60
+Sonny Werblin Recreation Center,Thursday,5:00 PM,80
+Sonny Werblin Recreation Center,Thursday,6:00 PM,90
+Sonny Werblin Recreation Center,Thursday,7:00 PM,80
+Sonny Werblin Recreation Center,Thursday,8:00 PM,65
+Sonny Werblin Recreation Center,Thursday,9:00 PM,55
+Sonny Werblin Recreation Center,Thursday,10:00 PM,35
+Sonny Werblin Recreation Center,Friday,7:00 AM,20
+Sonny Werblin Recreation Center,Friday,8:00 AM,25
+Sonny Werblin Recreation Center,Friday,9:00 AM,30
+Sonny Werblin Recreation Center,Friday,10:00 AM,35
+Sonny Werblin Recreation Center,Friday,11:00 AM,45
+Sonny Werblin Recreation Center,Friday,12:00 PM,48
+Sonny Werblin Recreation Center,Friday,1:00 PM,45
+Sonny Werblin Recreation Center,Friday,2:00 PM,42
+Sonny Werblin Recreation Center,Friday,3:00 PM,45
+Sonny Werblin Recreation Center,Friday,4:00 PM,55
+Sonny Werblin Recreation Center,Friday,5:00 PM,70
+Sonny Werblin Recreation Center,Friday,6:00 PM,75
+Sonny Werblin Recreation Center,Friday,7:00 PM,70
+Sonny Werblin Recreation Center,Friday,8:00 PM,45
+Sonny Werblin Recreation Center,Saturday,11:00 AM,40
+Sonny Werblin Recreation Center,Saturday,12:00 PM,45
+Sonny Werblin Recreation Center,Saturday,1:00 PM,48
+Sonny Werblin Recreation Center,Saturday,2:00 PM,48
+Sonny Werblin Recreation Center,Saturday,3:00 PM,55
+Sonny Werblin Recreation Center,Saturday,4:00 PM,58
+Sonny Werblin Recreation Center,Saturday,5:00 PM,55
+Sonny Werblin Recreation Center,Saturday,6:00 PM,45
+Sonny Werblin Recreation Center,Sunday,11:00 AM,40
+Sonny Werblin Recreation Center,Sunday,12:00 PM,45
+Sonny Werblin Recreation Center,Sunday,1:00 PM,48
+Sonny Werblin Recreation Center,Sunday,2:00 PM,52
+Sonny Werblin Recreation Center,Sunday,3:00 PM,55
+Sonny Werblin Recreation Center,Sunday,4:00 PM,60
+Sonny Werblin Recreation Center,Sunday,5:00 PM,55
+Sonny Werblin Recreation Center,Sunday,6:00 PM,45
+Cook/Doug Recreation Center,Monday,8:00 AM,10
+Cook/Doug Recreation Center,Monday,9:00 AM,15
+Cook/Doug Recreation Center,Monday,10:00 AM,20
+Cook/Doug Recreation Center,Monday,11:00 AM,20
+Cook/Doug Recreation Center,Monday,12:00 PM,20
+Cook/Doug Recreation Center,Monday,1:00 PM,18
+Cook/Doug Recreation Center,Monday,2:00 PM,18
+Cook/Doug Recreation Center,Monday,3:00 PM,22
+Cook/Doug Recreation Center,Monday,4:00 PM,25
+Cook/Doug Recreation Center,Monday,5:00 PM,30
+Cook/Doug Recreation Center,Monday,6:00 PM,30
+Cook/Doug Recreation Center,Monday,7:00 PM,32
+Cook/Doug Recreation Center,Monday,8:00 PM,28
+Cook/Doug Recreation Center,Monday,9:00 PM,22
+Cook/Doug Recreation Center,Monday,10:00 PM,15
+Cook/Doug Recreation Center,Tuesday,3:00 PM,15
+Cook/Doug Recreation Center,Tuesday,4:00 PM,20
+Cook/Doug Recreation Center,Tuesday,5:00 PM,30
+Cook/Doug Recreation Center,Tuesday,6:00 PM,45
+Cook/Doug Recreation Center,Tuesday,7:00 PM,60
+Cook/Doug Recreation Center,Tuesday,8:00 PM,58
+Cook/Doug Recreation Center,Wednesday,8:00 AM,15
+Cook/Doug Recreation Center,Wednesday,9:00 AM,18
+Cook/Doug Recreation Center,Wednesday,10:00 AM,25
+Cook/Doug Recreation Center,Wednesday,11:00 AM,25
+Cook/Doug Recreation Center,Wednesday,12:00 PM,22
+Cook/Doug Recreation Center,Wednesday,1:00 PM,20
+Cook/Doug Recreation Center,Wednesday,2:00 PM,20
+Cook/Doug Recreation Center,Wednesday,3:00 PM,25
+Cook/Doug Recreation Center,Wednesday,4:00 PM,30
+Cook/Doug Recreation Center,Wednesday,5:00 PM,35
+Cook/Doug Recreation Center,Wednesday,6:00 PM,40
+Cook/Doug Recreation Center,Wednesday,7:00 PM,38
+Cook/Doug Recreation Center,Wednesday,8:00 PM,30
+Cook/Doug Recreation Center,Wednesday,9:00 PM,20
+Cook/Doug Recreation Center,Thursday,8:00 AM,12
+Cook/Doug Recreation Center,Thursday,9:00 AM,18
+Cook/Doug Recreation Center,Thursday,10:00 AM,22
+Cook/Doug Recreation Center,Thursday,11:00 AM,25
+Cook/Doug Recreation Center,Thursday,12:00 PM,22
+Cook/Doug Recreation Center,Thursday,1:00 PM,20
+Cook/Doug Recreation Center,Thursday,2:00 PM,20
+Cook/Doug Recreation Center,Thursday,3:00 PM,22
+Cook/Doug Recreation Center,Thursday,4:00 PM,30
+Cook/Doug Recreation Center,Thursday,5:00 PM,45
+Cook/Doug Recreation Center,Thursday,6:00 PM,55
+Cook/Doug Recreation Center,Thursday,7:00 PM,60
+Cook/Doug Recreation Center,Thursday,8:00 PM,50
+Cook/Doug Recreation Center,Thursday,9:00 PM,35
+Cook/Doug Recreation Center,Thursday,10:00 PM,25
+Cook/Doug Recreation Center,Friday,8:00 AM,10
+Cook/Doug Recreation Center,Friday,9:00 AM,12
+Cook/Doug Recreation Center,Friday,10:00 AM,15
+Cook/Doug Recreation Center,Friday,11:00 AM,15
+Cook/Doug Recreation Center,Friday,12:00 PM,18
+Cook/Doug Recreation Center,Friday,1:00 PM,20
+Cook/Doug Recreation Center,Friday,2:00 PM,22
+Cook/Doug Recreation Center,Friday,3:00 PM,30
+Cook/Doug Recreation Center,Friday,4:00 PM,45
+Cook/Doug Recreation Center,Friday,5:00 PM,60
+Cook/Doug Recreation Center,Friday,6:00 PM,50
+Cook/Doug Recreation Center,Saturday,11:00 AM,20
+Cook/Doug Recreation Center,Saturday,12:00 PM,18
+Cook/Doug Recreation Center,Saturday,1:00 PM,15
+Cook/Doug Recreation Center,Saturday,2:00 PM,15
+Cook/Doug Recreation Center,Saturday,3:00 PM,18
+Cook/Doug Recreation Center,Saturday,4:00 PM,20
+Cook/Doug Recreation Center,Saturday,5:00 PM,18
+Cook/Doug Recreation Center,Saturday,6:00 PM,15
+Cook/Doug Recreation Center,Sunday,11:00 AM,45
+Cook/Doug Recreation Center,Sunday,12:00 PM,40
+Cook/Doug Recreation Center,Sunday,1:00 PM,30
+Cook/Doug Recreation Center,Sunday,2:00 PM,25
+Cook/Doug Recreation Center,Sunday,3:00 PM,22
+Cook/Doug Recreation Center,Sunday,4:00 PM,20
+Cook/Doug Recreation Center,Sunday,5:00 PM,18
+Cook/Doug Recreation Center,Sunday,6:00 PM,15
+Cook/Doug Recreation Center,Sunday,7:00 PM,15
+Cook/Doug Recreation Center,Sunday,8:00 PM,15
