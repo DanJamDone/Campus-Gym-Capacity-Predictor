@@ -41,7 +41,7 @@ def standardize_gym_name(name):
         "werblin": "Sonny Werblin Recreation Center",
         "sonny werblin": "Sonny Werblin Recreation Center",
         "sonny werblin recreation center": "Sonny Werblin Recreation Center",
-        "busch": "Sonny Werblin RecreationCenter",
+        "busch": "Sonny Werblin Recreation Center",
 
         "cook doug": "Cook/Douglass Recreation Center",
         "cook/douglass": "Cook/Douglass Recreation Center",
