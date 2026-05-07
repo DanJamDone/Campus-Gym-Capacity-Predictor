@@ -1,8 +1,8 @@
 # Campus Gym Capacity Predictor
 
-## Project Title and Description
+## Project Overview
 
-The **Campus Gym Capacity Predictor** is a machine learning project designed to predict the busyness level of Rutgers University gym facilities. The system analyzes historical gym utilization data to forecast capacity levels (Low, Medium, High), helping students and staff plan their gym visits efficiently.
+The **Campus Gym Capacity Predictor** is a data science and machine learning project designed to predict the busyness level of Rutgers University's main gym facilities on campus. The system analyzes historical gym utilization data to forecast capacity levels (Low, Medium, High), helping students and staff plan their gym visits efficiently.
 
 ## Team Members
 
@@ -18,14 +18,14 @@ Rutgers University students often struggle to find available time slots at campu
 
 ## Data Sources
 
-- **Source**: Rutgers University gym popular times data
+- **Source**: Rutgers University gym popular times data from Google Maps
 - **File**: `rutgers_gym_popular_times.csv`
 - **Features**: 
   - Gym Location (College Avenue Gym, Livingston Rec Center, Sonny Werblin, Cook/Douglass Rec Center)
-  - Day of Week
+  - Day of the Week
   - Hour of Day
   - Estimated Busyness Percentage (0-100%)
-  - Additional derived features: weekend indicator, semester week, exam week, weather conditions
+  - Additional derived features: weekend indicator, semester week #, exam week indicator, weather conditions
 
 ## Project Structure
 
